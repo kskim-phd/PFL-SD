@@ -39,7 +39,7 @@ Jong Hyeon Ahn, MD*, Ju Hwan Lee*, Chae Yeon Lim, Eun Yeon Joo, MD, PhD, Jinyoun
 
 # Data Availability
 The main data supporting the results of this study are reported within the paper. The raw datasets from Samsung Medical Center are protected to preserve patient privacy, but they can be made available upon reasonable request if approval is obtained from the corresponding Institutional Review Board.
-Please address all correspondence concerning this code to our corresponding author Kyungsu Kim at kskim.doc@gmail.com.
+   Please address all correspondence concerning this code to our corresponding author Kyungsu Kim at kskim.doc@gmail.com.
 
 # reference
 We developed the proposed code based on original code referenced below.
