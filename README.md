@@ -12,19 +12,20 @@ Jong Hyeon Ahn, MD*, Ju Hwan Lee*, Chae Yeon Lim, Eun Yeon Joo, MD, PhD, Jinyoun
 3. conda activate PFL
 4. PFL-SD pre-trained weights - https://drive.google.com/file/d/1TYMQj8LIkPgFHBePzAOu9UZyvonSCuO7/view?usp=share_link
 
-# Train & Inference 
+# Train and Inference 
 1. Preprocessing - python audio_preprocessing.py (extract only snoring/stridor part -> split patch -> log-Mel transformation) 
 
-2. Training - bash train.sh 
+2. Train - bash train.sh 
 
 3. inference - bash test.sh 
 
 4. Evaluation - python evaluation.py (majority voting per patient, save ROC_curve, print confusion matrix)
 
-5. Visualization - bash visualization.sh    
+# Visualization
+1. Visualization - bash visualization.sh    
     Download video (supplementary file S2, S3 in paper) - https://drive.google.com/file/d/1sc2TILt--4renzkWjo_Q6RqsZbKgx-JG/view?usp=share_link
     
-6. Combine audio file & video file - ffmpeg -i input_video.avi -i input_audio.mp3 -c copy output_video.avi
+2. Combine audio file & video file - ffmpeg -i input_video.avi -i input_audio.mp3 -c copy output_video.avi
 
 # PFL-SD results
 ![acc](https://user-images.githubusercontent.com/93506254/208030122-d13a6d01-3960-4878-9370-99231bdb2db9.PNG)
