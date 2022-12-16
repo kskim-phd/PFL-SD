@@ -31,6 +31,12 @@ Download video (supplementary file S2, S3 in paper) - https://drive.google.com/f
 # PFL-SD results
 ![acc](https://user-images.githubusercontent.com/93506254/208030122-d13a6d01-3960-4878-9370-99231bdb2db9.PNG)
 
+![confusion](https://user-images.githubusercontent.com/93506254/208030226-5f433fab-e4ef-4f9f-9463-2fe99904cddd.PNG)
+
+![ROC](https://user-images.githubusercontent.com/93506254/208030239-6f3d1a10-c18c-4be3-84be-d700b191be45.PNG)
+
+![waveplot](https://user-images.githubusercontent.com/93506254/208030253-9d8f3360-e085-4728-b02c-1ae05e3287de.PNG)
+
 
 # Data Availability
 The main data supporting the results of this study are reported within the paper. The raw datasets from Samsung Medical Center are protected to preserve patient privacy, but they can be made available upon reasonable request if approval is obtained from the corresponding Institutional Review Board.
