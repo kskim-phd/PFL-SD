@@ -17,7 +17,7 @@ Jong Hyeon Ahn, MD*, Ju Hwan Lee*, Chae Yeon Lim, Eun Yeon Joo, MD, PhD, Jinyoun
 
 2. Train - bash train.sh 
 
-3. nference - bash test.sh 
+3. Inference - bash test.sh 
 
 4. Evaluation - python evaluation.py (majority voting per patient, save ROC_curve, print confusion matrix)
 
