@@ -13,12 +13,11 @@ Jong Hyeon Ahn, MD*, Ju Hwan Lee*, Chae Yeon Lim, Eun Yeon Joo, MD, PhD, Jinyoun
 4. PFL-SD pre-trained weights - https://drive.google.com/file/d/1TYMQj8LIkPgFHBePzAOu9UZyvonSCuO7/view?usp=share_link
 
 # Train and Inference 
-1. Preprocessing - python audio_preprocessing.py 
-   (extract only snoring/stridor part -> split patch -> log-Mel transformation) 
+1. Preprocessing - python audio_preprocessing.py (extract only snoring/stridor part -> split patch -> log-Mel transformation) 
 
 2. Train - bash train.sh 
 
-3. inference - bash test.sh 
+3. nference - bash test.sh 
 
 4. Evaluation - python evaluation.py (majority voting per patient, save ROC_curve, print confusion matrix)
 
