@@ -29,4 +29,15 @@ Download video (supplementary file S2, S3 in paper) - https://drive.google.com/f
 
 # PFL-SD results
 
+# Data Availability
+The main data supporting the results of this study are reported within the paper. The raw datasets from Samsung Medical Center are protected to preserve patient privacy, but they can be made available upon reasonable request if approval is obtained from the corresponding Institutional Review Board.
+
+# reference
+We developed the proposed code based on original code referenced below.
+<br/>
+Original few-shot code is stated in these following references:
+<br/>
+Few-shot: https://github.com/Tsingularity/FRN
+
+
 
