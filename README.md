@@ -14,7 +14,7 @@ Jong Hyeon Ahn, MD*, Ju Hwan Lee*, Chae Yeon Lim, Eun Yeon Joo, MD, PhD, Jinyoun
 https://drive.google.com/file/d/1vW4AUWetAJc_m-uWaSF_eMJ51vpAp8hN/view?usp=sharing
 
 # Train & Inference 
-1. Preprocessing - python audio_preprocessing.py (extract only snoring/stridor part -> patch split -> log-Mel transformation) 
+1. Preprocessing - python audio_preprocessing.py (extract only snoring/stridor part -> split patch -> log-Mel transformation) 
 
 2. Train - bash train.sh 
 
@@ -26,4 +26,7 @@ https://drive.google.com/file/d/1vW4AUWetAJc_m-uWaSF_eMJ51vpAp8hN/view?usp=shari
 Download video (supplementary file S2, S3 in paper) - https://drive.google.com/file/d/1vW4AUWetAJc_m-uWaSF_eMJ51vpAp8hN/view?usp=sharing
 
 6. Combine audio file & video file - ffmpeg -i input_video.avi -i input_audio.mp3 -c copy output_video.avi
+
+# PFL-SD results
+
 
