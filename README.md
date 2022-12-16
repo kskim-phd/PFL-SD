@@ -12,10 +12,10 @@ Jong Hyeon Ahn, MD*, Ju Hwan Lee*, Chae Yeon Lim, Eun Yeon Joo, MD, PhD, Jinyoun
 3. conda activate PFL
 4. PFL-SD pre-trained weights - https://drive.google.com/file/d/1TYMQj8LIkPgFHBePzAOu9UZyvonSCuO7/view?usp=share_link
 
-# Train and Inference 
+# Training and Inference 
 1. Preprocessing - python audio_preprocessing.py (extract only snoring/stridor part -> split patch -> log-Mel transformation) 
 
-2. Train - bash train.sh 
+2. Training - bash train.sh 
 
 3. Inference - bash test.sh 
 
