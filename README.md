@@ -23,7 +23,7 @@ Jong Hyeon Ahn, MD*, Ju Hwan Lee*, Chae Yeon Lim, Eun Yeon Joo, MD, PhD, Jinyoun
 
 # Visualization
 1. Visualization - bash visualization.sh    
-    Download video (supplementary file S2, S3 in paper) - https://drive.google.com/file/d/1sc2TILt--4renzkWjo_Q6RqsZbKgx-JG/view?usp=share_link
+    Download video (supplementary files S2 and S3 in paper) - https://drive.google.com/file/d/1sc2TILt--4renzkWjo_Q6RqsZbKgx-JG/view?usp=share_link
     
 2. Combine audio file & video file - ffmpeg -i input_video.avi -i input_audio.mp3 -c copy output_video.avi
 
