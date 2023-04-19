@@ -28,7 +28,7 @@ Jong Hyeon Ahn, MD*, Ju Hwan Lee*, Chae Yeon Lim, Eun Yeon Joo, MD, PhD, Jinyoun
 2. Combine audio file & video file - ffmpeg -i input_video.avi -i input_audio.mp3 -c copy output_video.avi
 
 # PFL-SD results
-![acc](https://user-images.githubusercontent.com/93506254/208030122-d13a6d01-3960-4878-9370-99231bdb2db9.PNG)
+![acc](https://user-images.githubusercontent.com/93506254/232986386-996a0174-4f6a-4b66-989a-cfda38e8fafe.png)
 
 ![confusion](https://user-images.githubusercontent.com/93506254/208030226-5f433fab-e4ef-4f9f-9463-2fe99904cddd.PNG)
 
