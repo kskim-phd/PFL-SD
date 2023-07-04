@@ -1,7 +1,7 @@
-# Fully-automatic and Reliable Stridor Detection with Small Training Voice Samples via Patch-wise Few-shot Learning in Multiple System Atrophy
+# Automatic stridor detection using small training set via patch-wise few-shot learning for diagnosis of multiple system atrophy
 This repository contains the reference Pytorch source code for the following paper:
 <br/>
-Fully-automatic and Reliable Stridor Detection with Small Training Voice Samples via Patch-wise Few-shot Learning in Multiple System Atrophy
+Automatic stridor detection using small training set via patch-wise few-shot learning for diagnosis of multiple system atrophy
 <br/>
 <br/>
 Jong Hyeon Ahn, MD*, Ju Hwan Lee*, Chae Yeon Lim, Eun Yeon Joo, MD, PhD, Jinyoung Youn, MD, PhD, Myung Jin Chung, MD, PhD, Jin Whan Cho, MD, PhD+, and Kyungsu Kim, PhD+ (* contributed equally to this work as co-first authors and + contributed equally to this work as the co-corresponding authors.)
