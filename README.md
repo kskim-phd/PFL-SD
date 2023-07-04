@@ -21,14 +21,6 @@ Jong Hyeon Ahn, MD*, Ju Hwan Lee*, Chae Yeon Lim, Eun Yeon Joo, MD, PhD, Jinyoun
 
 4. Evaluation - python evaluation.py (majority voting per patient, save ROC_curve, print confusion matrix)
 
-# Visualization
-1. Visualization - python waveplot_visualization.py    
-    Download video (supplementary files S2 and S3 in paper) - https://drive.google.com/file/d/1sc2TILt--4renzkWjo_Q6RqsZbKgx-JG/view?usp=share_link
-    
-2. Combine audio file & video file - ffmpeg -i input_video.avi -i input_audio.mp3 -c copy output_video.avi
-
-
-
 # Data Availability
 The main data supporting the results of this study are reported within the paper. The raw datasets from Samsung Medical Center are protected to preserve patient privacy, but they can be made available upon reasonable request if approval is obtained from the corresponding Institutional Review Board.
 <br/>
